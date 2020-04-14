@@ -1,0 +1,7 @@
+.vs/
+Library/
+Logs/
+obj/
+Unity_Shaders_Book-master/
+*.csproj
+*.sln
